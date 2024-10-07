@@ -5,7 +5,7 @@
     --cor-de-fundo: #00030c;
     --fonte-principal: "Inter";
   }
-  
+  /*Melissa Macedo Machado 3D 07/10/2024*/
   body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
@@ -20,13 +20,13 @@
   }
   
   .principal {
-    background-image: url(img/Background.png);
+    background-image: url(Background.png);
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
     text-align: center;
   }
-  
+  /*Melissa Macedo Machado 3D 07/10/2024*/
   .container {
     height: 100vh;
     display: grid;
@@ -57,7 +57,7 @@
     font-size: 28px;
     font-weight: 700;
   }
-  
+  /*Melissa Macedo Machado 3D 07/10/2024*/
   .container__imagem {
     margin: 1em 0 2em 0;
   }
@@ -90,7 +90,7 @@
     display: inline-block;
     margin-top: 1em;
   }
-  
+  /*Melissa Macedo Machado 3D 07/10/2024*/
   .container__descricao {
     padding: 2em;
   }
@@ -122,7 +122,7 @@
     list-style-type: none;
     margin-top: 1em;
   }
-  
+  /*Melissa Macedo Machado 3D 07/10/2024*/
   .lista__link a {
     text-decoration: none;
     color: var(--branco-principal);
